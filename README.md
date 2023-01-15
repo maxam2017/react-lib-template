@@ -7,6 +7,7 @@
 <h3 align="center">✨ {{ name }}</h3>
 
 <p align="center">
+   <img src="https://img.shields.io/npm/v/@maxam2017/{{ name }}/latest.svg"/>
    <img src="https://img.shields.io/badge/language-typescript-blue?style"/>
    <img src="https://img.shields.io/github/license/maxam2017/{{ name }}"/>
    <img src="https://img.shields.io/github/stars/maxam2017/{{ name }}"/>
